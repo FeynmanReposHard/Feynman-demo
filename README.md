@@ -1,4 +1,4 @@
 # Feynman-demo
 This is my first git repository.
 <br>
-Author-Krish Raj
+Author-Krish (great)
